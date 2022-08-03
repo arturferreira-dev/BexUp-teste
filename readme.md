@@ -7,4 +7,5 @@ docker run -dp --name app 3000:3000 app
 # Para executar fora do docker
 
 yarn -> para instalação das dependencias
+
 yarn dev -> para executar o ambiente de dev
